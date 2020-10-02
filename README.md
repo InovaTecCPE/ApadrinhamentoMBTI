@@ -1,2 +1,5 @@
 # ApadrinhamentoMBTI
-projeto de apadrinhamento do CPE 2020
+
+Projeto de apadrinhamento do CPE 2020
+
+Feito em C#
