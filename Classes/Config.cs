@@ -8,8 +8,8 @@ namespace demoApadrinhamento.Classes
 {
     class Config
     {
-        string csvAlunos = @"C:\Users\natan\Desktop\CPE\Apadrinhamento 2020-2\csvAlunos.csv";
-        string csvPadrinhos = @"C:\Users\natan\Desktop\CPE\Apadrinhamento 2020-2\csvPadrinhos.csv";
+        string csvAlunos = @"Path";
+        string csvPadrinhos = @"Path";
         string saida = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
         public string CsvAlunos { get => csvAlunos; }
