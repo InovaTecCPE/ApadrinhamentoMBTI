@@ -1,0 +1,6 @@
+C:\Users\natan\Desktop\CPE\inovatec\Projetos\demoApadrinhamento\bin\Debug\demoApadrinhamento.exe.config
+C:\Users\natan\Desktop\CPE\inovatec\Projetos\demoApadrinhamento\bin\Debug\demoApadrinhamento.exe
+C:\Users\natan\Desktop\CPE\inovatec\Projetos\demoApadrinhamento\bin\Debug\demoApadrinhamento.pdb
+C:\Users\natan\Desktop\CPE\inovatec\Projetos\demoApadrinhamento\obj\Debug\demoApadrinhamento.csprojAssemblyReference.cache
+C:\Users\natan\Desktop\CPE\inovatec\Projetos\demoApadrinhamento\obj\Debug\demoApadrinhamento.exe
+C:\Users\natan\Desktop\CPE\inovatec\Projetos\demoApadrinhamento\obj\Debug\demoApadrinhamento.pdb
